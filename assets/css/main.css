@@ -975,7 +975,7 @@ input, select, textarea {
 				}
 
 				.row > .col-6-medium {
-					width: 50%;
+					width: 20%;
 				}
 
 				.row > .off-6-medium {
@@ -1566,16 +1566,18 @@ input, select, textarea {
 		color: #fff;
 	}
 
-		#banner .bordered-feature-image {
+		#banner .image {
 			margin-bottom: 0;
 		}
 
 		#banner p {
-			font-size: 10em;
+			font-size: 80px;
 			font-weight: 200;
 			line-height: 1.25em;
 			padding-right: 1em;
 			margin: 0 0 1em 0;
+			
+			
 		}
 
 /* Features */
